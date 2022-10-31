@@ -1,0 +1,26 @@
+.links a {
+	text-decoration: none;
+	color: #101828;
+	font-weight: 900;
+}
+
+button {
+	display: block;
+	margin: 10px 0;
+	background-color: #EAECF0;
+	border: none;
+}
+
+button:hover {
+	background-color: #D0D5DD;
+}
+
+button:active {
+	border: 1px solid #98A2B3;
+}
+
+
+small {
+	font-size: 10px;
+	padding-top: 10px;
+}

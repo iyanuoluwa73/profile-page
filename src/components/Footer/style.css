@@ -1,0 +1,31 @@
+.copyright {
+	display: flex;
+	justify-content: space-around;
+	padding: 15px 0;
+}
+
+.copyright img {
+	width: 15%;
+	height: 25px;
+}
+
+.copyright p {
+	color: #667085;
+	font-size: 16px;
+}
+
+@media (min-width: 375px) and (max-width: 500px) {
+	.copyright {
+		display: block;
+	}
+	
+	.copyright img {
+		width: 25%;
+		height: 25px;
+		padding-bottom: 5px;
+	}
+
+	.copyright p {
+		padding-top: 5px;
+	}
+}
