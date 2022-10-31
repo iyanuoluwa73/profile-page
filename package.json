@@ -1,9 +1,10 @@
 {
-  "name": "react-typescript",
-  "version": "1.0.0",
+  "name": "my-app",
+  "version": "5.0.0",
+  "homepage": "https://iyanuoluwa73.github.io/profile-page/",
+  "private": true,
   "type": "module",
   "description": "React TypeScript on Replit, using Vite bundler",
-  "homepage": "https://iyanuoluwa73.github.io",		
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
